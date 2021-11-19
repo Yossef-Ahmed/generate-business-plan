@@ -1,0 +1,23 @@
+.questions {
+    color: #1e375b;
+
+    .question {
+        margin-bottom: 25px;
+
+        &:last-of-type {
+            margin-bottom: 0;
+        }
+        
+        &__title {
+            margin-bottom: 20px;
+        }
+
+        .form-check-inline {
+            margin-right: 35px;
+        }
+
+        .answer-text {
+            color: #abaaaa;
+        }
+    }
+}

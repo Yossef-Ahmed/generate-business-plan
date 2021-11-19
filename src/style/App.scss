@@ -2,7 +2,14 @@
 @import "1-base/base";
 
 // 2- LAYOUTS FILES
-// @import "2-layouts/appClass";
+@import "2-layouts/appContainer";
+@import "2-layouts/results";
+@import "2-layouts/centeredContainer";
 
 // 3- MODULES FILES
-// @import "3-modules/header";
+@import "3-modules/mainTitle";
+@import "3-modules/nextBtn";
+@import "3-modules/questions";
+
+// 4- PAGES FILES
+@import "4-pages/questionsPage";
