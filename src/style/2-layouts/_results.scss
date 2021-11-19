@@ -1,0 +1,5 @@
+.results {
+    .card:not(.card:last-of-type) {
+        margin-bottom: 25px;
+    }
+}
